@@ -191,7 +191,7 @@ p {
     width: 90%;
     padding: 20px;
   }
-}
+
  .social-buttons {
     flex-direction: column; /* Stack buttons vertically */
     gap: 10px; /* Add spacing between buttons */
