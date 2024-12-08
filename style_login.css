@@ -198,7 +198,8 @@ p {
   }
 
   .social-buttons button {
-    width: 100%; /* Make buttons full-width */
-    justify-content: center; /* Center align the content */
+    width: auto; /* Make buttons full-width */
+    justify-content: center;
+    display:flex;/* Center align the content */
   }
 }
