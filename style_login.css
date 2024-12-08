@@ -192,3 +192,13 @@ p {
     padding: 20px;
   }
 }
+ .social-buttons {
+    flex-direction: column; /* Stack buttons vertically */
+    gap: 10px; /* Add spacing between buttons */
+  }
+
+  .social-buttons button {
+    width: 100%; /* Make buttons full-width */
+    justify-content: center; /* Center align the content */
+  }
+}
